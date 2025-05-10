@@ -1,0 +1,1 @@
+<h1>hello, this is the route newpage</h1>

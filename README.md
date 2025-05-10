@@ -1,0 +1,1 @@
+just some experimentation with LLMs, data visualization, svelte, and golang
